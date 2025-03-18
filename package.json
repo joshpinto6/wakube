@@ -1,8 +1,7 @@
 {
-  "name": "waka-box",
+  "name": "wakube",
   "version": "3.0.0",
   "description": "📊 Update a gist to contain your weekly WakaTime stats",
-  "author": "Matan Kushner <hello@matchai.me>",
   "license": "ISC",
   "scripts": {
     "build": "ncc build index.js --out dist --minify"
